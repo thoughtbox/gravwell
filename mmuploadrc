@@ -1,0 +1,4 @@
+ID=1337 # maxmind user id
+LICENCE=WB.snip.mmk # maxmind licence key
+GRAVWELL_TOKEN=PCvxe.snip.r3Og # gravwell token
+GRAVWELL_URL=https://gravwell.localdomain/api/resources/7d9d268a-1e2a-441e-b42b-f751a34d6171/raw # gravwell api endpoint
